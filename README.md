@@ -20,7 +20,5 @@ Feel free to customize and extend the project to include additional features or 
 📚 Documentation:
 Detailed documentation on API endpoints and project structure is available in the 'docs' directory.
 
-🔗 Explore Live Demo:
-[Your Demo Link Here]
 
 🌟 Star the repository if you find it useful!
